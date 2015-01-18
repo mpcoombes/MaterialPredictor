@@ -1,0 +1,12 @@
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\MaterialPositioner.exe.config
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\obj\Release\MaterialCrystalBall.csprojResolveAssemblyReference.cache
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\MaterialPositioner.exe
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\MaterialPositioner.pdb
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\encog-core-cs.dll
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\encog-core-cs.pdb
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\encog-core-cs.xml
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\obj\Release\MaterialPositioner.exe
+F:\GIT\ENCOG\Football\LHCbCorners\encog-dotnet-core-3.1.0\MaterialPositioner\obj\Release\MaterialPositioner.pdb
+F:\GIT\ENCOG\Materials\encog-dotnet-core-3.1.0\MaterialPositioner\bin\Release\MaterialPositioner.exe.config
+F:\GIT\ENCOG\Materials\encog-dotnet-core-3.1.0\MaterialPositioner\obj\Release\MaterialPositioner.exe
+F:\GIT\ENCOG\Materials\encog-dotnet-core-3.1.0\MaterialPositioner\obj\Release\MaterialPositioner.pdb
